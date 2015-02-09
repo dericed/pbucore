@@ -6,8 +6,8 @@
         <pbcoreTitle titleType="Episode" source="Casey">About PBUCore</pbcoreTitle>
         <pbcoreDescription>This is so exciting!</pbcoreDescription>
         <pbcoreRightsSummary>
-            <rightsSummary>This asset is copyrighted by WGBH.</rightsSummary>
-            <rightsLink>http://copyright.org</rightsLink>
+            <rightsSummary>This asset is copyrighted by WGBH but licensed under WTFPLv2+.</rightsSummary>
+            <rightsLink>http://www.wtfpl.net/txt/copying/</rightsLink>
         </pbcoreRightsSummary>
     </pbcoreDescriptionDocument>
 </pbcoreCollection>
